@@ -12,8 +12,6 @@ Run the Application:
 
 In order to run the application:
 
-Open it https://github.com/stefanosu/Fend-restaurant-reviews-app
-
 Run it locally:
 
 Download as zip file or clone this project: https://github.com/stefanosu/Fend-restaurant-reviews-app
