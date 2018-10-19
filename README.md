@@ -16,11 +16,11 @@ In this project, a static webpage that lacks accessibility is given to be conver
 
 In order to run the application:
 
-Open it 
+Open it https://github.com/stefanosu/Fend-restaurant-reviews-app
 
 Run it localy
 
-Download as .zip file or clone this project: 
+Download as .zip file or clone this project: https://github.com/stefanosu/Fend-restaurant-reviews-app
 
 In this folder, start up a simple HTTP server to serve up the site files on your local computer. Python has some simple tools to do this. Most people have it already installed on your computer.
 
