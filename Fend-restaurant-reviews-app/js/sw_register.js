@@ -8,7 +8,7 @@ if('serviceWorker' in navigator){
 const cacheFiles = [
 	'/',
 	'/index.html',
-	'/restaurant.html',
+	'restaurant.html',
 	'/css/styles.css',
 	'/js/dbhelper.js',
 	'/js/main.js',
