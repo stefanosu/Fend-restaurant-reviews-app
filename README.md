@@ -23,4 +23,4 @@ In terminal, check the version of Python you have: python -V. If you have Python
 With your server running, visit the site: http://localhost:8000.
 
 
-Resources --Used Matthew Cranford Restaurant Reviews App Walkthrough--
+Resources  --Used Matthew Cranford Restaurant Reviews App Walkthrough--
